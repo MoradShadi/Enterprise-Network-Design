@@ -2,14 +2,14 @@ A company requires its office building to be connected over a wired LAN, Wireles
 
 At present, the total number of office employees in Melbourne is 200. Each office worker is provided with an office space or cubicle with a multimedia desktop having wired network LAN connection. 
 
-Owing to a business acquisition, the number of employees at Melbourne is expected to increase substantially. The size of the Melbourne office, both Wired and Wireless LAN will increase (from 200) to 440 stations; after two new 4-storey buildings (located across the road) have been acquired to accommodate the additional office space needed to provide seating arrangements for the increased number of employees (see Figure 1 for Building-A, and Figure 2 for Building-B).  
+Owing to a business acquisition, the number of employees at Melbourne is expected to increase substantially. The size of the Melbourne office, both Wired and Wireless LAN will increase (from 200) to 440 stations; after two new 4-storey buildings (located across the road) have been acquired to accommodate the additional office space needed to provide seating arrangements for the increased number of employees. 
 
 Two newly acquired buildings will accommodate all the new staff members as follows:  
 (i) Building A: 160 new staff,  
 (ii) Building B: 80 new staff.  
 For each building, the number of new staff will be equally distributed among each floor.     
 
-The new buildings have not been wired for network connections. Each floor has a wiring closet where necessary horizontal and vertical structured cabling can be installed. Each wiring closet is located in the Lift and Service wells area as shown in the figure 1 & figure 2.   
+The new buildings have not been wired for network connections. Each floor has a wiring closet where necessary horizontal and vertical structured cabling can be installed. Each wiring closet is located in the Lift and Service wells area.   
 The service wells also has vertical riser where fiber optic cables can run through floor to floor to a dedicated server room in the ground floor. The two new buildings also need a Wide Area Network (WAN) to be connected to the existing Main office network (across the road). The width of the road can be assumed to be 100 meters wide. Both the new buildings require horizontal and vertical cabling.
 
 My design report includes:
